@@ -1,0 +1,31 @@
+.navigation{
+color: aqua;
+background-color: rgb(0, 255, 183);
+text-align: center;
+font-size: 35px;
+background-image:url('D:\web-project\exam\images\red-square.jpg');
+}
+
+.navigation-image{
+float:left;
+
+}
+
+.About-company-Text-1{
+margin-right: 10px;
+
+
+
+}
+.About-company-Text-2{
+    color: rgb(0, 0, 0);
+    
+    
+    
+    }
+
+.about-company-information{
+
+
+
+}
